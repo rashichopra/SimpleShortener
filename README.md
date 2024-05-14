@@ -10,9 +10,9 @@ There are 2 functions:
 
 To Run: 
 1. Install Java if not already installed
-2. clone the repo or copy/paste the URLShortener.java file
-3. Compile: javac URLShortener.java
-4. Run: java URLShortener
-5. When prompted, enter any string
+2. clone the repo or copy/paste the Shortit.java file
+3. Compile: javac Shortit.java
+4. Run: java Shortit
+5. When prompted, enter any string of any length greater than 6
 6. Program will output a shorter alphanumeric string with 6 chars and the original string back
 
