@@ -5,8 +5,8 @@ This is a very simplified version of a URL Shortener, more likely a string short
 2. In addition it takes as input the generated short link and returns the original link
 
 There are 2 functions: 
-1. To generate the short URL which takes as input the original URL (I used hashmap to store, will use DB in a real world web app) 
-2. To print the original url back when given the short url (this will be a redirect in a real world web app) 
+1. To generate the short URL which takes as input the original URL (I used hashmap to store, will use DB in a real world web app for persistance) 
+2. To print the original url back when given the short url (this will be a 301 redirect in a real world web app) 
 
 To Run: 
 1. Install Java if not already installed
