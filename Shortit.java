@@ -47,6 +47,6 @@ throws IOException
         System.out.println("Shortened String: " + shortURL);
 
         String expandedURL = shortener.expandURL(shortURL);
-        System.out.println("Original URL: " + expandedURL);
+        System.out.println("Original String: " + expandedURL);
 }
 }
