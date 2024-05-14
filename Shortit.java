@@ -37,9 +37,9 @@ public class Shortit {
 public static void main(String[] args)
 throws IOException
  {
-         BufferedReader bfn = new BufferedReader(
+        BufferedReader bfn = new BufferedReader(
             new InputStreamReader(System.in));
-         System.out.println("Enter your String that needs shortening: ");
+        System.out.println("Enter your String that needs shortening: ");
         String originalURL = bfn.readLine();
 
         Shortit shortener = new Shortit();
